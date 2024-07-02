@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "544626936122",
+    "project_id": "financiero-c62d9",
+    "storage_bucket": "financiero-c62d9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:544626936122:android:ab7ea1ac308d9bacf7a803",
+        "android_client_info": {
+          "package_name": "com.example.gestion_financiera_personal"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlc8B3cApnbcvjI37hm3bDKo5nLkwzE_4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
